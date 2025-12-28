@@ -34,8 +34,8 @@ This project performs basic arithmetic operations and demonstrates full-stack in
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/your-username/mern-basic-calculator.git
-cd mern-basic-calculator
+git clone https://github.com/gururv-cyber-webdev/Basic_Calculator.git
+cd Basic_Calculator
 ```
 
 ### 2️⃣ Backend Setup
