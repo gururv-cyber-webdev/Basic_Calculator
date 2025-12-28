@@ -1,0 +1,11 @@
+.inputcontainer{
+    border: 1px solid grey;
+    margin-top: 100px;
+    padding:20px;
+}
+
+.outputcontainer{
+    border: 1px solid grey;
+    padding:20px;
+    margin-top: 100px;
+}

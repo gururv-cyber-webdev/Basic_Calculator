@@ -1,0 +1,218 @@
+.input1container{
+    width:30%;
+    height: 500px;
+    position: relative;
+    border: 1px solid grey;
+    margin:20px auto;
+    padding-right: 5px;
+    border-radius: 20px;
+    background-color: rgb(176, 173, 173);
+
+}
+
+/* .img{
+    width:100%;
+    height:100%;
+} */
+ .z{
+    width:77px;
+    height:76px;
+    position: absolute;
+    bottom:33px;
+    left:35px;
+    border-radius: 17px;
+    font-size: xx-large;
+    font-weight: bolder;
+ }
+
+ .o{
+    width:77px;
+    height:76px;
+    position: absolute;
+    border-radius: 17px;
+    left:35px;
+    bottom:116px;
+    font-size: xx-large;
+    font-weight: bolder;
+ }
+
+
+ .fo{
+    width:77px;
+    height:76px;
+    position: absolute;
+    border-radius: 17px;
+    left:35px;
+    bottom:198px;
+    font-size: xx-large;
+    font-weight: bolder;
+ }
+
+ .se{
+    width:77px;
+    height:76px;
+    position: absolute;
+    border-radius: 17px;
+    left:35px;
+    bottom:280px;
+    font-size: xx-large;
+    font-weight: bolder;
+
+ }
+
+ .mod{
+    width:77px;
+    height:76px;
+    position: absolute;
+    border-radius: 17px;
+    left:117px;
+    bottom:33px;
+    font-size: x-large;
+    font-weight: bolder;
+ }
+
+ .to{
+    width:77px;
+    height:76px;
+    position: absolute;
+    border-radius: 17px;
+    left:117px;
+    bottom:116px;
+    font-size: xx-large;
+    font-weight: bolder;
+ }
+
+ .fi{
+    width:77px;
+    height:76px;
+    position: absolute;
+    border-radius: 17px;
+    left:117px;
+    bottom:198px;
+    font-size: xx-large;
+    font-weight: bolder;
+ }
+
+ .ei{
+    width:77px;
+    height:76px;
+    position: absolute;
+    border-radius: 17px;
+    left:117px;
+    bottom:280px;
+    font-size: xx-large;
+    font-weight: bolder;
+ }
+
+ .save{
+    width:77px;
+    height:76px;
+    position: absolute;
+    border-radius: 17px;
+    left:200px;
+    bottom:33px;
+    font-size:x-large;
+    font-weight: bolder;
+ }
+
+ .th{
+    width:77px;
+    height:76px;
+    position: absolute;
+    border-radius: 17px;
+    left:200px;
+    bottom:116px;
+    font-size: xx-large;
+    font-weight: bolder;
+ }
+
+ .si{
+    width:77px;
+    height:76px;
+    position: absolute;
+    border-radius: 17px;
+    left:200px;
+    bottom:198px;
+    font-size: xx-large;
+    font-weight: bolder;
+ }
+
+ .ni{
+    width:77px;
+    height:76px;
+    position: absolute;
+    border-radius: 17px;
+    left:200px;
+    bottom:280px;
+    font-size: xx-large;
+    font-weight: bolder;
+ }
+
+ .add{
+    width:77px;
+    height:76px;
+    position: absolute;
+    border-radius: 17px;
+    left:282px;
+    bottom:33px;
+    font-size:x-large;
+    font-weight: bolder;
+ }
+
+
+ .sub{
+    width:77px;
+    height:76px;
+    position: absolute;
+    border-radius: 17px;
+    left:282px;
+    bottom:116px;
+    font-size: x-large;
+    font-weight: bolder;
+ }
+
+
+ .mul{
+    width:77px;
+    height:76px;
+    position: absolute;
+    border-radius: 17px;
+    left:282px;
+    bottom:198px;
+    font-size: x-large;
+    font-weight: bolder;
+ }
+
+
+  .div{
+    width:77px;
+    height:76px;
+    position: absolute;
+    border-radius: 17px;
+    left:282px;
+    bottom:280px;
+    font-size: x-large;
+    font-weight: bolder;
+ } 
+
+ .output1container{
+    width: 25%;
+    height: 76px;
+    border:2px solid black;
+    margin-left: 45px;
+    margin-top: 20px;
+    border-radius: 20px;
+    position:absolute;
+    top:40px;
+    left:435px;
+    background-color: white;
+    font-size: x-large;
+    font-weight: bold;
+ }
+
+ .toggle{
+    position:absolute;
+    top:9px;
+    left:165px;
+    border-radius: 20px;
+ }
